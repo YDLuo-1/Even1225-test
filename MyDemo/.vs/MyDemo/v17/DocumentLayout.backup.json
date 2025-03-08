@@ -3,39 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|c:\\users\\ydluo\\desktop\\mydemo\\mydemo\\demo.module1\\views\\viewc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|solutionrelative:demo.module1\\views\\viewc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|c:\\users\\ydluo\\desktop\\mydemo\\mydemo\\demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|solutionrelative:demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|c:\\users\\ydluo\\desktop\\mydemo\\mydemo\\demo.module1\\module1module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|solutionrelative:demo.module1\\module1module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|c:\\users\\ydluo\\desktop\\mydemo\\mydemo\\demo.module1\\viewmodels\\viewcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|solutionrelative:demo.module1\\viewmodels\\viewcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\demo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\demo\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|solutionrelative:demo\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\demo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|c:\\users\\ydluo\\desktop\\mydemo\\mydemo\\demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|solutionrelative:demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|c:\\users\\ydluo\\desktop\\mydemo\\mydemo\\demo\\views\\viewb.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\demo.module1\\views\\viewc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|solutionrelative:demo.module1\\views\\viewc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\demo.module1\\module1module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|solutionrelative:demo.module1\\module1module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\demo.module1\\viewmodels\\viewcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353FB921-3CC6-4DCE-8DEB-46A9A5085723}|Demo.Module1\\Demo.Module1.csproj|solutionrelative:demo.module1\\viewmodels\\viewcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\demo\\views\\viewb.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|solutionrelative:demo\\views\\viewb.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|c:\\users\\ydluo\\desktop\\mydemo\\mydemo\\demo\\viewmodels\\viewbviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\demo\\viewmodels\\viewbviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodels\\viewbviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|c:\\users\\ydluo\\desktop\\mydemo\\mydemo\\demo\\viewmodels\\viewaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\demo\\viewmodels\\viewaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{114B4B75-493B-4C72-85C8-5B44A60C9EFF}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodels\\viewaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Module1Module.cs",
-              "DocumentMoniker": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo.Module1\\Module1Module.cs",
-              "RelativeDocumentMoniker": "Demo.Module1\\Module1Module.cs",
-              "ToolTip": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo.Module1\\Module1Module.cs",
-              "RelativeToolTip": "Demo.Module1\\Module1Module.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:28:44.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ViewCViewModel.cs",
               "DocumentMoniker": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo.Module1\\ViewModels\\ViewCViewModel.cs",
               "RelativeDocumentMoniker": "Demo.Module1\\ViewModels\\ViewCViewModel.cs",
@@ -83,20 +70,18 @@
               "RelativeToolTip": "Demo.Module1\\ViewModels\\ViewCViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:25:01.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T03:25:01.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ViewC.xaml",
               "DocumentMoniker": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo.Module1\\Views\\ViewC.xaml",
               "RelativeDocumentMoniker": "Demo.Module1\\Views\\ViewC.xaml",
               "ToolTip": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo.Module1\\Views\\ViewC.xaml",
               "RelativeToolTip": "Demo.Module1\\Views\\ViewC.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-26T03:24:47.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T03:24:47.134Z"
             },
             {
               "$type": "Document",
@@ -107,18 +92,17 @@
               "ToolTip": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo\\Views\\ViewB.xaml",
               "RelativeToolTip": "Demo\\Views\\ViewB.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-26T03:12:40.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T03:12:40.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo\\App.xaml.cs",
               "RelativeDocumentMoniker": "Demo\\App.xaml.cs",
               "ToolTip": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo\\App.xaml.cs",
               "RelativeToolTip": "Demo\\App.xaml.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAADwv0cAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T02:53:09.103Z",
               "EditorCaption": ""
@@ -133,8 +117,7 @@
               "RelativeToolTip": "Demo.Core\\NavigationViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T07:05:18.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T07:05:18.917Z"
             },
             {
               "$type": "Document",
@@ -145,12 +128,11 @@
               "ToolTip": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo\\Views\\ViewA.xaml",
               "RelativeToolTip": "Demo\\Views\\ViewA.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-25T06:40:06.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T06:40:06.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MainView.xaml",
               "DocumentMoniker": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo\\Views\\MainView.xaml",
               "RelativeDocumentMoniker": "Demo\\Views\\MainView.xaml",
@@ -162,16 +144,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "Demo\\ViewModels\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "Demo\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T06:06:41.406Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module1Module.cs",
+              "DocumentMoniker": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo.Module1\\Module1Module.cs",
+              "RelativeDocumentMoniker": "Demo.Module1\\Module1Module.cs",
+              "ToolTip": "C:\\Users\\YDLuo\\Desktop\\MyDemo\\MyDemo\\Demo.Module1\\Module1Module.cs",
+              "RelativeToolTip": "Demo.Module1\\Module1Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:28:44.01Z"
             },
             {
               "$type": "Document",
@@ -183,8 +177,7 @@
               "RelativeToolTip": "Demo\\ViewModels\\ViewBViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:14:05.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T03:14:05.652Z"
             },
             {
               "$type": "Document",
@@ -196,8 +189,7 @@
               "RelativeToolTip": "Demo\\ViewModels\\ViewAViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T06:40:30.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T06:40:30.633Z"
             }
           ]
         }
